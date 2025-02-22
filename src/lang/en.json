@@ -1,0 +1,11 @@
+{
+    "app.title": "Welcome to Vite + React!",
+    "app.label.count": "Count is {count}",
+    "app.label.edit": "Edit {file} and save to reload.",
+    "app.languageSelector": "Select language:",
+    "app.label.modal": "Open Modal",
+    "app.label.confirmation": "Confirmation",
+    "app.label.question": "Do you want to continue with this action?",
+    "app.label.accept": "Accept",
+    "app.label.cancel": "Cancel"
+}

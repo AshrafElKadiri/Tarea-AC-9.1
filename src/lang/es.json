@@ -1,0 +1,14 @@
+{
+    "app.title": "¡Bienvenido a Vite + React!",
+    "app.label.count": "El contador es {count}",
+    "app.label.edit": "Edita {file} y guarda para recargar.",
+    "app.languageSelector": "Selecciona idioma:",
+    "app.label.modal": "Abrir Modal",
+    "app.label.confirmation": "Confirmación",
+    "app.label.question": "¿Quieres continuar con esta acción?",
+    "app.label.accept": "Aceptar",
+    "app.label.cancel": "Cancelar"
+
+
+    
+}
